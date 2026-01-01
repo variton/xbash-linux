@@ -1,5 +1,5 @@
 # Xbash-linux - X bash linux tools
-Bundle of useful bash scripts used on linux
+Bundle of useful bash scripts used on linux.
 The scripts implement tools that automate daily tasks.
 
 *remark*:
@@ -10,7 +10,7 @@ Pull the repository and add your repository to your path:
 
 ```
 git clone https://github.com/variton/xbash-linux.git .
-export PATH=$(pwd) 
+export PATH=$(pwd):$PATH 
 
 ```
 
@@ -18,4 +18,4 @@ export PATH=$(pwd)
 The tools are folded in different directories depending on their usage.
 
 ### pydev
-it contains usefool scripts to develop python applications
+it contains useful scripts to develop python applications.
